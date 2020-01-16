@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Lim;Aishah;;;
+FN: Aishah  Lim 
+ORG:People's Association;
+TITLE:Manager\nInnovation Division
+EMAIL;type=INTERNET;type=WORK;type=pref:aishah_LIM@pa.gov.sg
+TEL;type=WORK;type=VOICE:+65 6738 1009
+item1.ADR;type=WORK;type=pref:;;9 King George's Avenue\, Singapore;;;208581
+item1.X-ABADR:sg
+item2.URL;type=pref:www.pa.gov.sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
